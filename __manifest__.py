@@ -21,7 +21,7 @@
         ],
     },
     'demo': [],
-    'summary': "Accounting Dashbaord by Datasoup",
+    'summary': "Accounting Dashboard by Datasoup",
     'description': "",
     'installable': True,
     'auto_install': False,
